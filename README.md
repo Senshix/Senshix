@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Senshix
 - 👀 I’m interested in learning coding  
-- 🌱 I’m currently learning Html / Css
+- 🌱 I’m fullStack learning Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Yassin.fakhir.96@gmail.com
 <!---
